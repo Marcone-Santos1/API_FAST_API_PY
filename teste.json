@@ -1,0 +1,14 @@
+{
+    "products-1":{
+       "name":"TV",
+       "price":1000,
+       "brand":"Samsung",
+       "quantity":10
+    },
+    "products-2":{
+       "name":"TV",
+       "price":1000,
+       "brand":"Samsung",
+       "quantity":10
+    }
+ }
